@@ -1,4 +1,4 @@
-### I'am NicolasElias Sant'Ana
+### I'am Nicolas Elias Sant'Ana
 - 💬 Estudante de Ciências da Computação da Universidade Federal de Santa Catarina
  <div>
   <a href="https://github.com/nicol4ss">
