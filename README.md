@@ -1,6 +1,6 @@
 ### Hi there, I'm Nicolas Elias Sant'Ana
 - :books:  Student of Computer Science at the [Federal University of Santa Catarina](https://cco.ufsc.br/)
-- :computer:  I'm software development fellowshipping at [Laboratory Bridge_](https://portal.bridge.ufsc.br/)
+- :computer:  I'm software development at [Laboratory Bridge_](https://portal.bridge.ufsc.br/)
 - I do like Computers :)
 <div>
     <h3>:mailbox_closed: Contact me on:</h3>
